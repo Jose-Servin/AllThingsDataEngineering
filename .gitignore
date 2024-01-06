@@ -1,2 +1,6 @@
 project-summary.txt
 project-summary.md
+venv/
+env/
+__pycache__/
+config.py
